@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="OrtnecTest">
+    <parameter name="build" value="Live"/>
+    <test name="OrtnecTest">
+        <classes>
+            <class name="test.OrtnecTest" />
+        </classes>
+    </test>
+</suite>
+
+<!--
+mvn clean -Dtest.xml=OrtnecTest.xml test
+-->

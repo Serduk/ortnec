@@ -1,0 +1,10 @@
+/bin/
+/target/
+# /runconfigs/*.xml
+/.idea
+/java/ortnec/ortnec.iml
+/.settings/*
+/temp/
+/test-output/
+/src/core/core.iml
+/ortnec.iml

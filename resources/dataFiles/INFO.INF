@@ -1,0 +1,4 @@
+This package is used to store Autotest's input data.
+
+lcmOdess.txt is used for LcmOdessOfflineAutoredirect autotest.
+PagesLinks.txt is used for CheckPagesHTTPResponse autotest.
