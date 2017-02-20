@@ -36,7 +36,7 @@ public class OrtnecTest {
     @Test
     public void checkGoogleSearchResult() {
 //        Get start page google
-        gPage.get("https://www.google.com.ua/");
+        gPage.get("https://www.google.com");
 //        user method from gPage (sendKeys ortnec, and click on Search BTN)
         gPage.search("ortnec");
 
